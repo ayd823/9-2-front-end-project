@@ -10,9 +10,9 @@ Sometimes I'm looking for a good slasher. Or I might be in the mood for a psycho
 
 - As a User, I will be able to use an input form to search for a movie based on specific parameters, i.e. Title, Release Date, Director, Country of Origin, etc.
 
-- As a User, I will be able to filter movies based on a sub-genre, i.e. Found Footage, Slasher, Holidays, etc.
+- As a User, I will be able to filter movies based on a sub-genre (keywords), i.e. Found Footage, Slasher, Holidays, etc.
 
-- As a User, I will be able to check/un-check items in a list that describe certain kinds of motifs/themes present within a movie, i.e. Exorcism, Revenge, Childhood Trauma, etc.
+- As a User, I will be able to check/un-check items in a list that describe certain kinds of motifs/themes (keywords) present within a movie, i.e. Exorcism, Revenge, Childhood Trauma, etc.
 
 - As a User, I will be able to filter out certain movies based off of any chosen parameters I would want to avoid, i.e. Films Released Before/After Year, Dark Comedy, Animal Death, etc.
 
